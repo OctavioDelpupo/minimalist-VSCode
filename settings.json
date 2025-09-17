@@ -10,6 +10,12 @@
   "workbench.tree.enableStickyScroll": false,
   "workbench.tree.renderIndentGuides": "none",
   "workbench.tips.enabled": false,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "terminal.external.windowsExec": "wt",
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "chat.commandCenter.enabled": false,
   "symbols.hidesExplorerArrows": false,
   "breadcrumbs.enabled": false,
   "editor.inlineSuggest.enabled": true,
@@ -59,26 +65,5 @@
     ".monaco-workbench .part.editor > .content .editor-group-container > .title > .label-container > .title-label": "padding-left: 60px",
     ".title .monaco-icon-label.file-icon": "margin: 0 60px"
   },
-  "custom-ui-style.font.sansSerif": "Dank Mono",
-  
-  "terminal.integrated.fontSize": 14,
-  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
-  "terminal.external.windowsExec": "wt",
-  "window.commandCenter": false,
-  "workbench.layoutControl.enabled": false,
-  "chat.commandCenter.enabled": false, 
-  "cSpell.language": "en,pt",
-  "cSpell.userWords": ["Datetime", "Dotenv"], 
-  "[jsonc]": {
-    "editor.defaultFormatter": "vscode.json-language-features"
-  },
-    "[json]": {
-    "editor.defaultFormatter": "vscode.json-language-features"
-  },
-    "[javascript]": {
-    "editor.defaultFormatter": "vscode.typescript-language-features"
-  },
-  "explorer.confirmDelete": false,
-  "explorer.confirmPasteNative": false,
-  "markdown-preview-enhanced.previewTheme": "github-dark.css",
+  "custom-ui-style.font.sansSerif": "Dank Mono"
 }

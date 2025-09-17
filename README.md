@@ -42,7 +42,7 @@ Now, press:
 
 And click on Preferences: Open User Settings. In the User tab, find > Extensions, open it, and click on APC. Once there, click on any Edit in settings.json.
 
-After opening `settings.json`, copy and paste this JSON: [HERE](), restart your VSCode and it should good to go.
+After opening `settings.json`, copy and paste this JSON: [HERE](https://github.com/OctavioDelpupo/minimalist-VSCode/blob/main/settings.json), restart your VSCode and it should good to go.
 
 ## 📝 License
 
