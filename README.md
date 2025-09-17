@@ -4,10 +4,10 @@
 
 ## Before:
 
-<img src="/preview/before.png"/>
+<img src="./preview/Before.png"/>
     
 ## After:
-<img src="/preview/after.png"/>
+<img src="/preview/After.png"/>
 
 ## About:
 
