@@ -1,5 +1,5 @@
 <div align="center">
-  </h1> 🎨 Minimalist VSCode</h1>
+  <h1> 🎨 Minimalist VSCode</h1>
 </div>
 
 ## Before:
