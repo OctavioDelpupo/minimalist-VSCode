@@ -1,5 +1,5 @@
-<div>
-  <h1 align="center">Minimalist VSCode</h1>
+<div align="center">
+  </h1> 🎨 Minimalist VSCode</h1>
 </div>
 
 ## Before:
